@@ -87,9 +87,6 @@ The development server will start on `http://localhost:5173` (or another port if
 
 ## 🤝 Contributing
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Join+Our+Community" alt="Join Our Community" width="80%" style="border-radius: 8px; margin-bottom: 20px;" />
-</div>
 
 We welcome contributions from the community! Here's how you can contribute:
 
